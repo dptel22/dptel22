@@ -24,7 +24,7 @@ Infra      →  Docker · Kubernetes · Prometheus · Google Cloud · Git · SQL
 **[A.R.I.A](https://github.com/dptel22/A.R.I.A)** — Autonomous Road Infrastructure Auditor  
 Fine-tuned YOLOv11n with a 4-class severity classifier (LOW → CRITICAL). FastAPI detection endpoints, SQLite geospatial DB, automated PDF enforcement notices, Streamlit dashboard.
 
-**[Resolve](https://github.com/dptel22/Resolve-MIT-hackathon)** — Self-Healing Kubernetes Platform · *MIT-BLR Hackathon*  
+**[Resolve](https://github.com/dptel22/Resolve-MIT-hackthon)** — Self-Healing Kubernetes Platform · *MIT-BLR Hackathon*  
 Isolation Forest + Z-Score anomaly detection on live Prometheus telemetry. Detects service degradation across p95 latency, error rates, and resource utilization — triggers automated FastAPI-driven pod recovery.
 
 **[MaternalGuard](https://github.com/dptel22/Byte.exe-Devcraft)** — Maternal Health Risk Screener · *DevCraft Hackathon — 🥉 3rd Place*  
