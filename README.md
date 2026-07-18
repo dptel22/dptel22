@@ -72,16 +72,16 @@ Working through a structured self-study path covering classical ML, deep learnin
 
 ### Featured Projects
 
-#### 🚦 [A.R.I.A — Autonomous Road Infrastructure Auditor](https://github.com/dptel22/YOUR_REPO_NAME)
+#### 🚦 [A.R.I.A — Autonomous Road Infrastructure Auditor](https://github.com/dptel22/A.R.I.A)
 Fine-tuned YOLOv11n with a 4-class severity classifier (LOW → CRITICAL). FastAPI detection endpoints, SQLite geospatial DB, automated PDF enforcement notices, Streamlit dashboard.
 
-#### ⚙️ [Resolve — Self-Healing Kubernetes Platform](https://github.com/dptel22/YOUR_REPO_NAME) · *MIT-BLR Hackathon*
+#### ⚙️ [Resolve — Self-Healing Kubernetes Platform](https://github.com/dptel22/Resolve-MIT-hackthon) · *MIT-BLR Hackathon*
 Isolation Forest + Z-score anomaly detection on live Prometheus telemetry, with automated remediation.
 
 #### 🚤 RoBoat — Autonomous Waste-Collection Catamaran · *Government Innovation Grant*
 Vision pipeline on Raspberry Pi 5 + Hailo-8L, targeting YOLOv11n on TACO/FloW datasets for floating-waste detection.
 
-#### 🏥 VitaSakhi / MaternalGuard — Maternal Health Risk Screener · *3rd Place, DevCraft Hackathon*
+#### 🏥 [VitaSakhi / MaternalGuard — Maternal Health Risk Screener](https://github.com/dptel22/Byte.exe-Devcraft) · *3rd Place, DevCraft Hackathon*
 XGBoost + SHAP model — AUC 0.947, 96.4% high-risk recall. Scored 99/100 in prelims.
 
 ---
@@ -99,9 +99,21 @@ XGBoost + SHAP model — AUC 0.947, 96.4% high-risk recall. Scored 99/100 in pre
 
 ---
 
+### Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dptel22/dptel22/main/metrics.isocalendar.svg" alt="Isometric commit calendar" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dptel22/dptel22/main/metrics.habits.svg" alt="Coding habits" />
+</p>
+
+---
+
 ### Connect
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhruvpt933@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhruv-patel-949946261/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
