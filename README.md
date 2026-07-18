@@ -93,11 +93,6 @@ XGBoost + SHAP model — AUC 0.947, 96.4% high-risk recall. Scored 99/100 in pre
 </p>
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/dptel22/dptel22/main/metrics.stats.svg" alt="GitHub stats" />
-  <img height="165" src="https://raw.githubusercontent.com/dptel22/dptel22/main/metrics.languages.svg" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=dptel22&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
