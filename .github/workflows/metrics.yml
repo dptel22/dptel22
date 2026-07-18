@@ -19,17 +19,29 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-  habits:
+  stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.habits.svg
+          filename: metrics.stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_threshold: 2%
+          plugin_languages_limit: 8
